@@ -1,1 +1,1 @@
-# Predicting-District-wise-GDP-based-on-NTL-Data-using-ML-Models
+# Predicting_District-wise_GDP_based_on_NTL_Data_using_ML_Models
