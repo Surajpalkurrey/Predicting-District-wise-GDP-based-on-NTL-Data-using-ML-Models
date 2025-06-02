@@ -7,4 +7,5 @@ To better understand the impact of population heterogeneity on model performance
 
 The project concludes with a comparative assessment for Karnataka, evaluating the aggregated predictive accuracy of each model. The findings underscore the potential of satellite-derived night-time luminosity as a scalable, timely, and cost-effective tool for real-time economic monitoring in data-scarce environments. This research affirms the value of remote sensing in bridging data gaps and supporting evidence-based policy at granular administrative levels.
 
+![image](https://github.com/user-attachments/assets/ca12f0ff-70d9-4a43-9136-9f0a05bb4f21)
 
