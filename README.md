@@ -9,3 +9,11 @@ The project concludes with a comparative assessment for Karnataka, evaluating th
 
 ![image](https://github.com/user-attachments/assets/ca12f0ff-70d9-4a43-9136-9f0a05bb4f21)
 
+#OUTPUT RESULT
+In this study, we utilized 5 years of data, resulting in 60 monthly satellite images per district. These images span various months and years, providing temporal diversity. During the training phase, the machine learning model randomly samples from these images for different time periods.
+
+As a result, each district may appear multiple times in the output — specifically in the "Actual vs Predicted GDP" bar plots — because the model is learning from distinct image instances representing different months or years for the same district. This repetition in the bar plots is not a duplication error but a reflection of the time-series-based image sampling used to improve model generalization and accuracy.
+
+![pic 9](https://github.com/user-attachments/assets/72dae232-ff13-4623-8df1-26a6571799f2)
+
+
